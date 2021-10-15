@@ -429,3 +429,65 @@ tr:hover {
     margin-left: 2%;
     font-size: 25px;
 }
+/*ICI CSS MELLLLLL
+ZA
+ZA
+ZA
+ZA
+
+ZA
+ZA
+ZA
+ZA
+*/
+/* presentation */
+
+
+.h1pre{
+    display: flex;
+    justify-content: center;
+}
+.h2pre{
+    display: flex;
+    justify-content: center;  
+}
+
+.Fleur{
+
+    display: flex;
+    justify-content: center;
+    flex-basis: 1; 
+}
+
+.Legume{
+     display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-top: 2%;
+}
+    
+
+.Plante{
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.Arbuste{
+    display: flex;
+    justify-content: center;
+}
+
+
+.img1{
+    padding-top: 4%;
+    margin-top: 4%;
+    padding-bottom: 3%;
+    margin-bottom: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.pplantes, .h4pplantes{
+    text-align: center;
+}
